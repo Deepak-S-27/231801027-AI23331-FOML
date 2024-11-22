@@ -1,0 +1,1001 @@
+Loan_ID,Age,Income,Loan_Amount,Loan_Term,Credit_Score,Employment_Status,Debt_to_Income_Ratio,Marital_Status,Education,Loan_Default
+L00001,59,6018,8814,36,408,Employed,0.39,Divorced,Master,1
+L00002,49,13302,40984,60,520,Unemployed,0.18,Divorced,Master,0
+L00003,35,3970,31616,36,667,Employed,0.34,Divorced,PhD,1
+L00004,63,10389,7113,36,446,Employed,0.38,Divorced,Master,0
+L00005,28,7765,48006,24,411,Employed,0.39,Divorced,Master,1
+L00006,41,12818,18760,36,793,Unemployed,0.21,Married,Master,1
+L00007,59,3202,26927,12,804,Self-employed,0.47,Single,High School,1
+L00008,39,10135,25939,48,774,Self-employed,0.11,Divorced,High School,1
+L00009,43,7567,37419,12,570,Self-employed,0.28,Divorced,Master,0
+L00010,31,9667,17588,60,720,Employed,0.49,Single,High School,0
+L00011,31,7742,41142,48,666,Unemployed,0.38,Single,Bachelor,0
+L00012,44,7788,44198,36,579,Employed,0.23,Single,Master,0
+L00013,56,7408,49738,60,582,Self-employed,0.45,Single,Bachelor,1
+L00014,60,12227,38397,48,339,Self-employed,0.38,Single,PhD,0
+L00015,44,10669,21653,36,488,Unemployed,0.5,Single,Bachelor,0
+L00016,23,11446,15831,12,463,Employed,0.47,Married,PhD,1
+L00017,42,2922,10724,48,835,Self-employed,0.41,Single,Master,1
+L00018,22,2419,16083,36,835,Unemployed,0.34,Single,PhD,0
+L00019,44,4204,24816,12,303,Employed,0.17,Married,PhD,0
+L00020,64,12789,47240,60,589,Employed,0.23,Single,Bachelor,1
+L00021,50,3120,11276,60,732,Self-employed,0.31,Divorced,Bachelor,1
+L00022,58,13260,43663,60,770,Self-employed,0.4,Divorced,Bachelor,0
+L00023,22,2950,18994,60,480,Employed,0.36,Single,Master,1
+L00024,41,4336,28499,24,547,Employed,0.24,Married,Master,0
+L00025,53,7373,28040,48,578,Self-employed,0.1,Divorced,Bachelor,1
+L00026,32,4243,48320,48,553,Employed,0.35,Married,Master,1
+L00027,42,4645,21959,24,480,Self-employed,0.24,Divorced,Master,0
+L00028,64,12049,11099,36,808,Employed,0.47,Single,PhD,1
+L00029,45,6612,47267,36,625,Self-employed,0.11,Married,PhD,0
+L00030,47,3865,24576,60,656,Unemployed,0.39,Married,Bachelor,1
+L00031,62,13104,40946,12,690,Self-employed,0.57,Married,Master,1
+L00032,48,13045,11116,36,384,Self-employed,0.19,Divorced,PhD,0
+L00033,36,8028,20563,12,616,Unemployed,0.34,Divorced,High School,0
+L00034,35,9326,31788,48,511,Employed,0.15,Divorced,Master,0
+L00035,64,8371,31928,12,814,Unemployed,0.41,Single,High School,1
+L00036,23,8359,41336,48,683,Self-employed,0.38,Divorced,Bachelor,1
+L00037,57,9863,14847,24,641,Employed,0.3,Single,Master,1
+L00038,27,5228,31155,24,337,Unemployed,0.36,Married,Bachelor,0
+L00039,41,5719,19135,60,810,Employed,0.55,Married,Bachelor,0
+L00040,29,13420,22774,36,719,Employed,0.2,Single,Bachelor,0
+L00041,59,4371,6742,60,468,Unemployed,0.11,Divorced,Bachelor,1
+L00042,38,4891,23309,48,642,Employed,0.53,Single,Bachelor,1
+L00043,24,5756,5619,60,605,Unemployed,0.39,Married,Master,0
+L00044,45,6225,22658,12,841,Self-employed,0.55,Married,High School,1
+L00045,34,2094,39707,48,836,Employed,0.4,Single,Master,0
+L00046,29,4674,25337,24,411,Self-employed,0.51,Divorced,Master,1
+L00047,46,8898,21001,36,710,Self-employed,0.31,Divorced,Master,0
+L00048,22,12147,5968,48,505,Employed,0.47,Single,PhD,1
+L00049,40,2793,30892,48,484,Unemployed,0.56,Single,PhD,0
+L00050,48,12026,30619,12,681,Employed,0.39,Divorced,Master,0
+L00051,27,4116,5281,36,795,Self-employed,0.19,Married,High School,0
+L00052,64,7779,32420,24,678,Self-employed,0.23,Single,Master,0
+L00053,28,14298,20360,48,346,Unemployed,0.2,Divorced,Bachelor,0
+L00054,55,13517,44030,48,827,Employed,0.22,Divorced,PhD,1
+L00055,34,13111,6058,12,803,Self-employed,0.25,Married,PhD,0
+L00056,37,12789,25677,60,321,Self-employed,0.38,Married,Master,0
+L00057,56,13397,15724,24,512,Self-employed,0.39,Married,Master,0
+L00058,60,14999,33404,36,609,Unemployed,0.31,Married,High School,1
+L00059,24,8166,42946,48,571,Self-employed,0.41,Married,High School,1
+L00060,22,2814,44748,48,501,Self-employed,0.14,Single,Bachelor,0
+L00061,26,2345,34856,24,331,Employed,0.14,Divorced,Master,0
+L00062,62,12541,14200,60,742,Employed,0.19,Single,Master,0
+L00063,24,10554,38997,48,461,Self-employed,0.36,Single,Master,1
+L00064,49,4443,30611,24,553,Self-employed,0.21,Single,PhD,1
+L00065,38,12457,46235,12,820,Employed,0.24,Single,Bachelor,0
+L00066,46,12380,40057,60,779,Unemployed,0.3,Single,High School,1
+L00067,64,9783,6239,36,309,Unemployed,0.51,Married,PhD,0
+L00068,54,13197,43138,48,804,Unemployed,0.11,Married,PhD,0
+L00069,30,13473,5125,24,735,Unemployed,0.42,Divorced,PhD,1
+L00070,56,2984,28857,12,410,Unemployed,0.43,Single,PhD,0
+L00071,34,9790,20398,36,452,Unemployed,0.5,Divorced,Bachelor,1
+L00072,51,11831,11638,24,401,Unemployed,0.57,Married,Master,0
+L00073,35,2827,11570,24,490,Unemployed,0.11,Married,High School,0
+L00074,28,12922,8249,36,380,Employed,0.18,Married,High School,0
+L00075,34,5531,14110,12,788,Unemployed,0.54,Single,PhD,0
+L00076,43,9147,45363,12,387,Unemployed,0.33,Single,PhD,1
+L00077,60,6451,18605,60,493,Unemployed,0.38,Married,Bachelor,0
+L00078,41,13127,17115,48,403,Self-employed,0.43,Divorced,PhD,1
+L00079,36,5876,44062,36,395,Employed,0.44,Divorced,High School,0
+L00080,38,7959,27911,36,722,Employed,0.57,Married,High School,0
+L00081,44,2126,43525,36,497,Employed,0.6,Divorced,Master,1
+L00082,46,5177,37556,12,300,Unemployed,0.46,Married,Master,0
+L00083,45,13248,17595,48,706,Unemployed,0.24,Divorced,High School,1
+L00084,61,10795,6969,60,677,Self-employed,0.54,Married,High School,1
+L00085,49,13641,48753,24,466,Employed,0.12,Divorced,Bachelor,0
+L00086,35,8024,22275,24,808,Unemployed,0.22,Single,Bachelor,1
+L00087,21,7109,9470,36,612,Employed,0.55,Married,High School,0
+L00088,45,6146,15225,48,717,Self-employed,0.23,Married,PhD,1
+L00089,27,9196,47324,12,776,Self-employed,0.21,Divorced,Master,0
+L00090,29,13725,46974,48,372,Self-employed,0.17,Married,High School,0
+L00091,44,13559,47759,48,440,Employed,0.53,Married,PhD,1
+L00092,21,5368,28196,12,561,Unemployed,0.35,Married,High School,0
+L00093,64,5797,45287,36,639,Unemployed,0.44,Single,Master,1
+L00094,28,3792,18669,48,607,Self-employed,0.22,Single,Master,1
+L00095,44,13053,42380,24,544,Unemployed,0.48,Divorced,Bachelor,1
+L00096,31,7732,43006,12,814,Self-employed,0.48,Single,Bachelor,0
+L00097,37,5476,20577,60,636,Employed,0.26,Divorced,Bachelor,0
+L00098,28,5417,27473,36,375,Self-employed,0.31,Single,Bachelor,1
+L00099,55,3645,33625,12,474,Employed,0.2,Divorced,Master,0
+L00100,55,11397,20504,60,408,Self-employed,0.59,Single,PhD,1
+L00101,53,5030,29089,60,482,Unemployed,0.42,Single,PhD,1
+L00102,25,4872,41487,48,491,Unemployed,0.57,Divorced,PhD,0
+L00103,62,5072,5302,48,364,Self-employed,0.25,Married,High School,1
+L00104,59,3854,36463,48,773,Unemployed,0.49,Married,Bachelor,1
+L00105,61,6021,49912,12,399,Unemployed,0.48,Single,Bachelor,1
+L00106,48,6662,34259,12,843,Unemployed,0.45,Divorced,Master,0
+L00107,27,8514,47823,36,427,Employed,0.58,Married,Master,1
+L00108,29,7031,42208,48,751,Unemployed,0.3,Divorced,High School,0
+L00109,28,4708,35659,60,668,Employed,0.17,Married,High School,0
+L00110,32,13694,40840,24,342,Self-employed,0.44,Divorced,PhD,0
+L00111,54,9112,36890,36,718,Unemployed,0.46,Single,Master,1
+L00112,53,11524,18598,12,787,Unemployed,0.39,Divorced,Bachelor,0
+L00113,43,10393,24508,36,377,Unemployed,0.2,Married,PhD,1
+L00114,44,5507,47287,36,569,Self-employed,0.35,Single,Bachelor,1
+L00115,57,8456,18380,36,614,Employed,0.26,Divorced,PhD,0
+L00116,55,6212,31984,36,467,Employed,0.31,Married,Bachelor,1
+L00117,64,9970,49633,24,638,Unemployed,0.42,Single,High School,0
+L00118,60,10766,13125,48,492,Self-employed,0.47,Divorced,PhD,1
+L00119,42,2536,41059,60,752,Self-employed,0.22,Married,Bachelor,1
+L00120,47,3625,9033,36,582,Self-employed,0.3,Divorced,Bachelor,1
+L00121,55,12314,42873,36,635,Self-employed,0.23,Divorced,Master,0
+L00122,21,9973,22087,36,689,Self-employed,0.2,Single,PhD,1
+L00123,55,10577,45901,48,824,Employed,0.49,Single,Bachelor,1
+L00124,57,10070,10704,12,539,Employed,0.55,Married,Master,1
+L00125,34,13473,12848,12,782,Employed,0.29,Single,Bachelor,0
+L00126,23,10666,26592,24,757,Unemployed,0.48,Married,PhD,1
+L00127,21,10609,11924,12,388,Self-employed,0.55,Divorced,High School,1
+L00128,25,8490,32208,36,394,Unemployed,0.52,Divorced,PhD,1
+L00129,46,5600,24614,36,751,Self-employed,0.19,Married,PhD,0
+L00130,34,8783,5488,36,727,Employed,0.58,Divorced,Bachelor,0
+L00131,59,11146,44882,24,450,Unemployed,0.29,Single,Bachelor,1
+L00132,47,6971,30923,36,813,Employed,0.27,Divorced,PhD,1
+L00133,29,3205,40941,12,675,Self-employed,0.13,Single,Master,0
+L00134,35,14951,34165,48,321,Self-employed,0.34,Married,Master,0
+L00135,35,14312,6667,48,612,Self-employed,0.15,Married,Master,0
+L00136,46,3990,31213,60,818,Employed,0.22,Divorced,Bachelor,0
+L00137,62,7299,9114,12,505,Self-employed,0.26,Divorced,Bachelor,0
+L00138,33,14997,41321,36,674,Employed,0.5,Single,PhD,0
+L00139,52,5572,12761,48,750,Unemployed,0.54,Single,High School,0
+L00140,59,7975,36116,12,478,Self-employed,0.25,Divorced,Bachelor,1
+L00141,52,8320,38768,48,509,Self-employed,0.53,Divorced,PhD,1
+L00142,24,6380,30426,36,799,Self-employed,0.53,Married,PhD,0
+L00143,50,14350,22772,48,763,Unemployed,0.48,Married,High School,1
+L00144,57,6757,43218,60,423,Self-employed,0.17,Married,Master,0
+L00145,43,4713,8712,60,412,Employed,0.45,Divorced,PhD,0
+L00146,59,12395,6367,48,311,Employed,0.57,Divorced,PhD,0
+L00147,35,7588,45957,12,425,Self-employed,0.44,Divorced,PhD,1
+L00148,63,13312,46781,12,630,Self-employed,0.27,Married,Master,0
+L00149,49,2966,31200,12,582,Unemployed,0.35,Divorced,Master,0
+L00150,56,6944,8726,48,439,Unemployed,0.42,Single,High School,0
+L00151,33,5432,28616,12,700,Unemployed,0.36,Divorced,Bachelor,0
+L00152,52,2688,32723,36,396,Self-employed,0.16,Divorced,Master,1
+L00153,27,6243,42574,60,816,Unemployed,0.26,Divorced,Bachelor,0
+L00154,42,5701,39958,36,368,Unemployed,0.5,Divorced,Bachelor,1
+L00155,48,10533,14108,12,417,Employed,0.53,Divorced,Master,1
+L00156,22,7182,17178,36,358,Unemployed,0.17,Single,PhD,0
+L00157,62,11916,40643,12,332,Employed,0.58,Single,High School,1
+L00158,26,8704,36324,48,617,Employed,0.26,Divorced,Bachelor,1
+L00159,48,6422,43360,36,349,Unemployed,0.43,Married,PhD,0
+L00160,48,11984,22824,48,788,Employed,0.48,Divorced,Master,0
+L00161,64,3759,13927,48,318,Self-employed,0.51,Divorced,Bachelor,0
+L00162,64,13404,33144,24,496,Self-employed,0.57,Divorced,Bachelor,0
+L00163,40,11181,36010,12,749,Unemployed,0.26,Married,Bachelor,0
+L00164,50,12454,27443,60,751,Self-employed,0.53,Married,PhD,0
+L00165,31,4482,19437,12,588,Employed,0.17,Married,PhD,0
+L00166,48,10058,49298,60,440,Self-employed,0.45,Single,PhD,1
+L00167,45,2951,44778,12,383,Unemployed,0.47,Married,Bachelor,1
+L00168,59,10914,16207,48,690,Unemployed,0.44,Single,Bachelor,1
+L00169,53,13581,30537,36,514,Employed,0.23,Single,High School,0
+L00170,21,4079,40757,36,825,Unemployed,0.54,Married,High School,0
+L00171,47,4717,17040,24,514,Self-employed,0.18,Married,PhD,0
+L00172,33,12524,46986,60,702,Unemployed,0.13,Married,PhD,0
+L00173,61,13568,27612,60,427,Employed,0.46,Single,Master,1
+L00174,23,6524,33441,60,776,Unemployed,0.34,Divorced,PhD,0
+L00175,59,11692,11471,48,703,Self-employed,0.52,Married,High School,1
+L00176,26,10477,40631,60,328,Employed,0.29,Married,High School,0
+L00177,28,9311,48461,36,637,Self-employed,0.18,Married,High School,0
+L00178,47,13687,31523,48,660,Employed,0.52,Single,Bachelor,1
+L00179,29,9186,36348,12,691,Unemployed,0.37,Single,Bachelor,0
+L00180,57,4065,6177,60,517,Employed,0.19,Divorced,PhD,1
+L00181,53,2768,9760,60,501,Employed,0.46,Married,Master,1
+L00182,62,7490,37779,12,316,Unemployed,0.36,Single,Master,1
+L00183,64,13249,26636,60,621,Self-employed,0.4,Divorced,Master,1
+L00184,44,14481,21353,12,817,Unemployed,0.33,Married,Bachelor,1
+L00185,35,8645,16556,48,624,Employed,0.51,Single,High School,1
+L00186,52,7083,32598,36,711,Unemployed,0.51,Married,High School,1
+L00187,52,7232,16563,12,617,Employed,0.45,Married,Bachelor,0
+L00188,44,12353,48790,24,381,Unemployed,0.15,Single,Master,0
+L00189,61,13485,13234,12,773,Unemployed,0.52,Single,Master,1
+L00190,32,7797,30519,60,767,Self-employed,0.44,Single,PhD,1
+L00191,59,11138,31966,48,724,Employed,0.45,Married,PhD,0
+L00192,22,6926,21173,48,503,Self-employed,0.28,Married,Master,1
+L00193,23,8016,31987,12,686,Employed,0.54,Divorced,Bachelor,0
+L00194,57,5335,18178,36,397,Unemployed,0.46,Married,Master,1
+L00195,37,14342,44338,24,644,Employed,0.16,Single,PhD,0
+L00196,22,10038,29596,48,507,Self-employed,0.3,Married,Master,1
+L00197,22,6873,38174,60,813,Self-employed,0.54,Divorced,Bachelor,0
+L00198,48,3481,46974,60,465,Self-employed,0.12,Divorced,High School,0
+L00199,43,12093,9431,36,321,Employed,0.58,Single,Bachelor,0
+L00200,57,8305,32764,48,453,Self-employed,0.44,Single,Bachelor,1
+L00201,52,5451,26627,12,738,Self-employed,0.42,Divorced,PhD,1
+L00202,53,14256,44310,60,594,Self-employed,0.24,Divorced,Bachelor,1
+L00203,21,2054,13906,36,518,Unemployed,0.22,Divorced,Bachelor,0
+L00204,39,9643,41914,48,794,Unemployed,0.57,Single,PhD,0
+L00205,22,12015,49814,48,529,Employed,0.25,Divorced,PhD,0
+L00206,64,5462,18076,48,319,Employed,0.49,Divorced,High School,1
+L00207,46,13271,42650,48,447,Self-employed,0.3,Single,Master,1
+L00208,52,2832,11012,48,407,Unemployed,0.17,Married,Bachelor,1
+L00209,26,14600,12151,60,702,Self-employed,0.11,Married,PhD,0
+L00210,52,12998,33211,36,782,Self-employed,0.37,Divorced,High School,0
+L00211,24,7954,32117,48,666,Unemployed,0.59,Married,Master,0
+L00212,31,12682,41378,24,713,Unemployed,0.28,Married,PhD,0
+L00213,37,10519,47652,24,608,Unemployed,0.28,Married,Master,1
+L00214,58,9221,11894,36,433,Employed,0.27,Married,Master,1
+L00215,44,5310,18467,12,582,Employed,0.36,Divorced,Bachelor,0
+L00216,25,5300,36010,12,372,Self-employed,0.32,Married,Bachelor,0
+L00217,54,8722,47641,12,780,Employed,0.54,Married,PhD,1
+L00218,26,9218,17289,24,651,Unemployed,0.35,Single,Master,1
+L00219,42,9776,49976,12,625,Unemployed,0.35,Divorced,PhD,1
+L00220,31,5675,48596,60,742,Employed,0.17,Single,PhD,0
+L00221,36,5054,28171,48,399,Self-employed,0.59,Single,Master,1
+L00222,53,9970,39905,24,358,Self-employed,0.22,Divorced,PhD,1
+L00223,29,4143,25829,36,807,Employed,0.14,Married,Master,0
+L00224,26,7207,39054,36,557,Self-employed,0.43,Single,Master,1
+L00225,36,11503,49139,48,712,Self-employed,0.4,Divorced,Master,0
+L00226,49,13383,34734,24,751,Self-employed,0.31,Married,Master,1
+L00227,23,4538,12052,12,364,Unemployed,0.31,Divorced,High School,1
+L00228,40,14175,8654,12,453,Unemployed,0.49,Single,Master,1
+L00229,56,6547,28486,60,565,Employed,0.2,Married,Bachelor,0
+L00230,39,7619,23743,60,378,Unemployed,0.51,Married,Bachelor,0
+L00231,46,10356,29489,12,614,Self-employed,0.42,Divorced,Bachelor,1
+L00232,23,14469,13636,36,547,Unemployed,0.31,Married,Master,1
+L00233,39,8612,11441,36,713,Employed,0.33,Single,Bachelor,1
+L00234,40,7005,29611,60,324,Unemployed,0.23,Single,High School,0
+L00235,52,2822,47435,48,583,Self-employed,0.48,Single,PhD,0
+L00236,27,2943,17149,12,748,Self-employed,0.36,Divorced,Master,1
+L00237,61,8150,39566,60,600,Employed,0.26,Married,Bachelor,0
+L00238,53,6425,47368,60,367,Unemployed,0.4,Married,High School,1
+L00239,60,10966,26675,12,306,Unemployed,0.6,Married,PhD,1
+L00240,59,4198,10495,12,436,Unemployed,0.32,Single,High School,0
+L00241,38,13348,47668,36,463,Self-employed,0.56,Married,Bachelor,1
+L00242,60,6242,18673,48,382,Employed,0.27,Single,High School,1
+L00243,21,5695,16130,48,719,Unemployed,0.13,Married,PhD,1
+L00244,31,5452,27668,12,372,Self-employed,0.2,Single,Bachelor,0
+L00245,48,11106,20222,24,536,Self-employed,0.31,Married,PhD,0
+L00246,45,3308,28669,60,345,Self-employed,0.21,Divorced,High School,1
+L00247,43,6177,39068,60,561,Unemployed,0.1,Divorced,Master,0
+L00248,51,10705,28253,12,475,Unemployed,0.56,Single,Master,0
+L00249,50,12112,14435,24,465,Unemployed,0.52,Single,Master,1
+L00250,62,8852,33552,36,669,Unemployed,0.47,Married,Master,1
+L00251,55,8035,42384,12,353,Unemployed,0.18,Married,PhD,0
+L00252,27,5594,21393,12,718,Unemployed,0.16,Divorced,Master,1
+L00253,36,6841,15617,60,806,Unemployed,0.13,Married,PhD,0
+L00254,46,3409,43520,12,640,Unemployed,0.46,Single,Bachelor,0
+L00255,22,14994,14852,12,426,Unemployed,0.56,Single,Master,1
+L00256,21,6566,36401,12,708,Self-employed,0.32,Single,PhD,0
+L00257,32,13382,11295,60,666,Unemployed,0.16,Single,Master,0
+L00258,25,6491,40993,36,570,Employed,0.36,Single,Master,0
+L00259,57,3555,39084,36,678,Self-employed,0.27,Divorced,Master,1
+L00260,52,2804,44575,12,372,Unemployed,0.29,Divorced,PhD,0
+L00261,29,3279,41451,60,547,Employed,0.41,Single,High School,1
+L00262,61,9083,12227,36,342,Unemployed,0.46,Married,Master,1
+L00263,55,7986,36910,36,676,Employed,0.16,Single,Master,0
+L00264,39,7619,41041,36,340,Employed,0.12,Divorced,Bachelor,0
+L00265,36,13769,28384,60,469,Employed,0.6,Single,High School,0
+L00266,23,13093,5145,60,511,Employed,0.22,Divorced,PhD,1
+L00267,40,3387,42778,12,792,Self-employed,0.13,Divorced,Bachelor,0
+L00268,44,14880,21035,48,338,Self-employed,0.19,Single,Master,0
+L00269,53,12953,8040,36,668,Employed,0.12,Single,Bachelor,1
+L00270,44,4679,47422,48,450,Unemployed,0.3,Married,Bachelor,1
+L00271,31,4106,31160,60,410,Employed,0.5,Divorced,Master,1
+L00272,28,10173,22633,60,779,Self-employed,0.27,Married,High School,0
+L00273,56,6223,34344,60,735,Unemployed,0.32,Single,High School,0
+L00274,58,6831,22014,48,346,Self-employed,0.44,Divorced,Bachelor,1
+L00275,60,4768,19996,60,665,Self-employed,0.35,Married,Master,0
+L00276,40,14145,46621,12,368,Unemployed,0.53,Married,PhD,1
+L00277,55,5186,16695,60,598,Employed,0.53,Married,Bachelor,0
+L00278,45,13472,7852,24,595,Employed,0.1,Single,PhD,0
+L00279,55,4573,21014,48,502,Employed,0.49,Single,Bachelor,1
+L00280,45,14808,32042,24,360,Employed,0.33,Single,Bachelor,0
+L00281,49,4599,38755,60,613,Unemployed,0.59,Divorced,Master,0
+L00282,38,6033,45390,12,460,Unemployed,0.34,Single,Master,0
+L00283,38,10428,28711,36,630,Unemployed,0.59,Divorced,PhD,1
+L00284,22,3304,31122,60,827,Self-employed,0.48,Married,PhD,1
+L00285,55,13622,14160,12,637,Unemployed,0.22,Married,High School,1
+L00286,36,9368,32213,48,603,Employed,0.37,Single,Master,1
+L00287,61,7877,44420,24,802,Self-employed,0.6,Married,Bachelor,1
+L00288,56,3301,12421,24,637,Employed,0.53,Single,Bachelor,1
+L00289,53,4541,26400,24,849,Employed,0.15,Divorced,High School,0
+L00290,24,4051,38537,48,574,Unemployed,0.45,Married,Master,1
+L00291,53,8809,22727,12,463,Unemployed,0.27,Single,Bachelor,1
+L00292,34,10633,9358,48,742,Employed,0.1,Married,High School,0
+L00293,41,12268,33482,24,618,Employed,0.3,Married,High School,0
+L00294,40,13372,37117,60,803,Self-employed,0.22,Single,Bachelor,1
+L00295,28,12849,28164,36,686,Unemployed,0.51,Married,Bachelor,1
+L00296,27,13990,36910,48,793,Self-employed,0.27,Married,PhD,0
+L00297,23,10996,37496,48,789,Self-employed,0.51,Married,Master,1
+L00298,37,2074,49311,12,372,Self-employed,0.1,Married,PhD,1
+L00299,53,8981,34371,12,808,Employed,0.25,Divorced,High School,0
+L00300,32,12367,43467,48,689,Self-employed,0.22,Married,Bachelor,0
+L00301,42,14116,22625,24,594,Self-employed,0.22,Married,PhD,1
+L00302,42,12281,38893,36,668,Employed,0.13,Single,High School,1
+L00303,50,7475,15793,12,848,Unemployed,0.19,Divorced,Master,1
+L00304,58,10232,36007,24,486,Unemployed,0.38,Single,Bachelor,1
+L00305,58,12273,30766,60,744,Self-employed,0.25,Single,PhD,0
+L00306,28,9184,44532,12,662,Employed,0.31,Single,Master,0
+L00307,47,7796,17323,24,422,Unemployed,0.29,Divorced,PhD,0
+L00308,47,9141,12843,24,487,Self-employed,0.54,Single,High School,0
+L00309,54,14875,19210,36,719,Self-employed,0.55,Single,Master,1
+L00310,41,3622,21456,36,551,Employed,0.35,Single,PhD,0
+L00311,50,10041,36367,60,848,Self-employed,0.27,Married,Master,1
+L00312,53,2341,15106,24,634,Unemployed,0.15,Single,High School,0
+L00313,48,14244,42957,24,391,Employed,0.58,Divorced,Master,1
+L00314,53,4074,7472,36,829,Unemployed,0.13,Divorced,PhD,1
+L00315,25,9992,11704,12,362,Unemployed,0.25,Married,High School,1
+L00316,39,2645,8713,12,811,Unemployed,0.25,Divorced,Bachelor,1
+L00317,24,6263,10051,48,438,Self-employed,0.26,Divorced,PhD,0
+L00318,55,10801,15756,36,484,Self-employed,0.18,Married,PhD,0
+L00319,37,8136,7475,48,504,Unemployed,0.49,Single,High School,0
+L00320,64,10646,41378,36,513,Unemployed,0.16,Married,High School,0
+L00321,48,13145,9255,60,555,Employed,0.42,Single,Bachelor,1
+L00322,50,11900,19484,24,434,Employed,0.16,Single,PhD,1
+L00323,49,13664,39503,60,387,Self-employed,0.14,Divorced,High School,0
+L00324,26,4969,13258,36,506,Self-employed,0.55,Married,Bachelor,0
+L00325,55,5028,45747,24,428,Employed,0.2,Divorced,Bachelor,0
+L00326,61,9643,40196,12,302,Unemployed,0.51,Divorced,High School,1
+L00327,57,14989,45194,12,420,Self-employed,0.37,Single,PhD,1
+L00328,44,4681,13533,48,684,Unemployed,0.14,Divorced,Master,1
+L00329,49,5629,37581,36,337,Employed,0.58,Married,Master,1
+L00330,51,6225,10249,36,640,Self-employed,0.22,Divorced,Bachelor,0
+L00331,55,5067,24201,12,320,Self-employed,0.53,Divorced,Master,0
+L00332,53,7941,14686,60,541,Employed,0.18,Single,Master,1
+L00333,41,3386,37007,24,754,Self-employed,0.53,Married,High School,0
+L00334,52,13968,5661,60,602,Employed,0.11,Divorced,Bachelor,0
+L00335,43,4866,49843,60,368,Self-employed,0.36,Single,PhD,1
+L00336,53,6788,35137,12,428,Employed,0.48,Divorced,Bachelor,0
+L00337,23,13555,47828,12,495,Self-employed,0.57,Married,High School,0
+L00338,38,7490,15526,12,439,Unemployed,0.55,Divorced,Master,1
+L00339,45,6124,8374,48,743,Unemployed,0.51,Divorced,PhD,1
+L00340,62,10340,30592,60,582,Unemployed,0.54,Single,Bachelor,0
+L00341,51,5850,33982,36,611,Self-employed,0.2,Divorced,Master,0
+L00342,23,7415,5207,24,834,Self-employed,0.24,Single,Bachelor,1
+L00343,60,12250,40433,48,576,Unemployed,0.24,Married,PhD,0
+L00344,44,9679,28197,36,360,Unemployed,0.29,Divorced,Bachelor,0
+L00345,52,8819,38400,60,618,Employed,0.3,Married,Bachelor,1
+L00346,42,11328,8083,12,351,Employed,0.37,Married,Bachelor,0
+L00347,43,10378,34328,60,452,Employed,0.18,Divorced,Master,0
+L00348,22,13046,47891,24,610,Unemployed,0.45,Single,PhD,1
+L00349,47,11442,25103,48,843,Unemployed,0.18,Married,PhD,0
+L00350,62,3333,44891,48,688,Unemployed,0.26,Married,Master,1
+L00351,22,14385,15754,24,847,Employed,0.35,Divorced,Master,1
+L00352,46,6150,39447,36,476,Self-employed,0.5,Divorced,Master,0
+L00353,37,8766,20901,36,661,Unemployed,0.47,Divorced,High School,1
+L00354,60,4711,38004,48,613,Self-employed,0.42,Divorced,Bachelor,1
+L00355,53,6853,12446,48,396,Self-employed,0.18,Divorced,Bachelor,0
+L00356,29,14693,42211,12,512,Self-employed,0.37,Divorced,PhD,0
+L00357,63,8212,34301,36,436,Employed,0.14,Single,Bachelor,1
+L00358,59,9479,31116,24,305,Self-employed,0.29,Married,High School,1
+L00359,49,7408,46323,36,408,Unemployed,0.31,Single,Master,0
+L00360,62,11977,23752,12,846,Employed,0.12,Single,PhD,0
+L00361,46,9715,37376,48,338,Unemployed,0.24,Divorced,PhD,0
+L00362,55,10942,21669,48,724,Unemployed,0.58,Married,Bachelor,1
+L00363,45,3762,37916,12,560,Employed,0.58,Single,PhD,1
+L00364,44,14112,18395,24,725,Unemployed,0.28,Divorced,Master,1
+L00365,33,9101,25421,48,386,Unemployed,0.12,Divorced,PhD,0
+L00366,27,9674,31342,60,764,Employed,0.19,Married,Master,0
+L00367,56,14652,9895,48,375,Unemployed,0.3,Single,High School,0
+L00368,40,8122,16023,60,770,Self-employed,0.57,Single,High School,0
+L00369,21,2481,15699,12,713,Unemployed,0.17,Single,Master,0
+L00370,28,2153,14715,12,756,Self-employed,0.48,Divorced,Bachelor,0
+L00371,36,9617,24169,48,584,Unemployed,0.15,Married,PhD,1
+L00372,34,3524,21163,36,538,Employed,0.59,Married,Bachelor,1
+L00373,32,4120,10782,60,671,Employed,0.29,Single,PhD,1
+L00374,43,4343,27641,24,794,Unemployed,0.49,Divorced,High School,1
+L00375,35,7136,23792,48,344,Employed,0.27,Single,High School,0
+L00376,48,7760,40585,24,700,Unemployed,0.41,Married,High School,0
+L00377,54,3240,35682,48,546,Employed,0.2,Divorced,PhD,1
+L00378,22,2060,23880,36,749,Self-employed,0.17,Single,High School,0
+L00379,52,11130,43067,36,784,Unemployed,0.57,Single,High School,1
+L00380,43,3639,47685,36,317,Self-employed,0.56,Divorced,High School,1
+L00381,42,8185,23073,36,588,Self-employed,0.54,Married,High School,1
+L00382,45,14312,41035,12,713,Unemployed,0.41,Divorced,Bachelor,1
+L00383,42,9970,42174,12,534,Self-employed,0.5,Single,High School,1
+L00384,42,14418,29837,60,715,Unemployed,0.13,Single,High School,0
+L00385,62,13761,22826,24,798,Self-employed,0.27,Single,Bachelor,1
+L00386,26,3252,29981,48,414,Unemployed,0.26,Single,Bachelor,0
+L00387,35,6203,15382,48,533,Unemployed,0.42,Married,PhD,1
+L00388,63,10363,9437,12,839,Employed,0.28,Married,Master,0
+L00389,57,11650,10435,48,310,Unemployed,0.17,Single,High School,1
+L00390,53,5549,29819,12,505,Unemployed,0.4,Married,High School,1
+L00391,28,6197,41875,60,546,Self-employed,0.51,Married,High School,1
+L00392,64,9009,36982,24,426,Unemployed,0.29,Married,PhD,0
+L00393,64,8667,38328,60,446,Employed,0.17,Single,High School,1
+L00394,25,4322,17329,36,417,Self-employed,0.2,Divorced,Master,0
+L00395,59,11828,30169,36,681,Self-employed,0.22,Divorced,Bachelor,1
+L00396,24,13307,26932,36,711,Employed,0.25,Divorced,PhD,1
+L00397,26,6090,39594,60,662,Self-employed,0.42,Single,Bachelor,0
+L00398,52,8960,16421,48,808,Self-employed,0.4,Married,High School,1
+L00399,50,5004,12629,24,436,Self-employed,0.45,Married,High School,1
+L00400,55,7136,13325,36,474,Self-employed,0.28,Single,High School,0
+L00401,60,2329,33495,36,588,Employed,0.51,Single,Master,0
+L00402,36,5640,36750,36,780,Employed,0.2,Divorced,Master,0
+L00403,33,14086,34619,24,318,Self-employed,0.33,Divorced,PhD,0
+L00404,62,9982,45461,36,494,Self-employed,0.5,Single,Bachelor,0
+L00405,50,6107,13264,24,629,Employed,0.19,Divorced,High School,0
+L00406,39,3341,17686,36,474,Employed,0.15,Married,High School,0
+L00407,37,13855,29226,60,748,Employed,0.54,Single,High School,0
+L00408,39,10407,11721,60,653,Self-employed,0.27,Single,High School,0
+L00409,48,2338,25609,24,798,Self-employed,0.44,Married,Master,0
+L00410,46,7895,12373,60,440,Unemployed,0.11,Married,Bachelor,0
+L00411,57,14254,43675,24,392,Employed,0.45,Married,Bachelor,1
+L00412,46,4708,33937,60,538,Self-employed,0.26,Divorced,PhD,0
+L00413,43,13344,10656,60,504,Employed,0.13,Single,Master,1
+L00414,29,3750,13984,24,732,Self-employed,0.4,Divorced,High School,1
+L00415,32,7604,34984,48,544,Employed,0.22,Married,Bachelor,0
+L00416,21,4421,13286,60,616,Self-employed,0.29,Divorced,Bachelor,1
+L00417,21,9119,10901,36,594,Unemployed,0.14,Married,Master,0
+L00418,54,10901,36552,48,581,Unemployed,0.17,Divorced,PhD,1
+L00419,52,7319,30709,24,316,Employed,0.25,Divorced,PhD,0
+L00420,45,8609,36055,48,370,Self-employed,0.14,Married,High School,1
+L00421,60,7387,42685,12,568,Self-employed,0.56,Divorced,PhD,1
+L00422,21,13918,13429,12,624,Employed,0.1,Single,Bachelor,0
+L00423,36,13834,19716,60,604,Self-employed,0.34,Divorced,PhD,0
+L00424,59,5993,16138,60,750,Employed,0.16,Divorced,High School,1
+L00425,25,10680,40298,36,306,Self-employed,0.25,Single,Bachelor,0
+L00426,42,10044,28429,48,613,Employed,0.56,Married,PhD,0
+L00427,49,10238,10772,12,402,Self-employed,0.18,Single,PhD,0
+L00428,23,13551,40732,60,492,Employed,0.58,Divorced,Master,1
+L00429,32,6873,44905,48,828,Self-employed,0.2,Married,High School,0
+L00430,46,6806,22347,60,470,Unemployed,0.47,Divorced,PhD,0
+L00431,36,10592,21920,60,836,Self-employed,0.37,Divorced,Master,0
+L00432,57,14182,36822,12,550,Employed,0.54,Single,Bachelor,0
+L00433,42,7913,45108,12,686,Unemployed,0.38,Single,Master,0
+L00434,49,9124,28563,60,506,Self-employed,0.37,Married,Master,0
+L00435,34,5157,12967,24,840,Unemployed,0.2,Married,PhD,0
+L00436,48,14537,16871,60,715,Self-employed,0.18,Married,PhD,1
+L00437,25,2390,33763,60,679,Unemployed,0.56,Divorced,PhD,0
+L00438,50,14045,16916,36,443,Employed,0.26,Single,Master,0
+L00439,25,6430,13734,36,324,Self-employed,0.29,Single,Bachelor,1
+L00440,32,10820,38613,36,372,Self-employed,0.48,Single,High School,1
+L00441,36,9686,33179,24,392,Employed,0.27,Married,Master,0
+L00442,46,6232,40262,24,804,Unemployed,0.58,Single,PhD,1
+L00443,46,13122,17677,60,635,Employed,0.47,Single,High School,1
+L00444,41,10007,23268,36,724,Employed,0.4,Single,Bachelor,1
+L00445,59,3521,17330,24,798,Unemployed,0.54,Married,High School,1
+L00446,56,11018,25733,12,663,Employed,0.12,Single,PhD,0
+L00447,53,3500,42947,60,498,Self-employed,0.23,Married,Master,0
+L00448,50,8737,32286,48,712,Self-employed,0.33,Single,Master,0
+L00449,57,5294,11610,60,638,Self-employed,0.21,Single,PhD,0
+L00450,43,7085,11430,48,728,Employed,0.47,Single,Master,0
+L00451,30,4419,44922,36,438,Self-employed,0.56,Married,PhD,0
+L00452,25,11126,18828,48,841,Self-employed,0.31,Married,Master,1
+L00453,56,5042,47913,36,356,Self-employed,0.27,Single,Master,1
+L00454,54,6497,36497,12,531,Self-employed,0.58,Divorced,Master,1
+L00455,51,3466,44256,48,734,Self-employed,0.32,Married,Bachelor,1
+L00456,30,5561,41618,60,683,Self-employed,0.34,Married,Bachelor,0
+L00457,39,2614,31526,36,493,Employed,0.28,Single,PhD,0
+L00458,52,7392,35158,60,833,Self-employed,0.55,Divorced,Bachelor,0
+L00459,21,9693,30032,24,817,Self-employed,0.38,Single,PhD,1
+L00460,25,11374,42846,36,484,Unemployed,0.48,Married,High School,0
+L00461,24,5223,49936,48,591,Employed,0.51,Married,High School,0
+L00462,36,9138,34794,36,634,Employed,0.27,Single,Bachelor,0
+L00463,44,4667,10448,60,415,Employed,0.32,Single,High School,0
+L00464,36,9980,33861,12,348,Employed,0.52,Divorced,High School,1
+L00465,22,2130,33141,36,381,Self-employed,0.28,Divorced,Master,1
+L00466,48,4983,14074,48,632,Self-employed,0.5,Married,Master,0
+L00467,52,6278,11406,24,634,Unemployed,0.57,Divorced,PhD,1
+L00468,47,9126,36823,12,831,Unemployed,0.41,Divorced,High School,1
+L00469,40,14651,28291,24,520,Employed,0.47,Married,PhD,0
+L00470,44,10230,46568,36,622,Unemployed,0.5,Married,PhD,0
+L00471,32,9694,37003,60,302,Unemployed,0.52,Married,High School,1
+L00472,55,14151,39406,60,505,Employed,0.3,Married,Bachelor,0
+L00473,53,8640,28312,48,339,Employed,0.13,Single,High School,1
+L00474,53,13779,48108,60,358,Unemployed,0.3,Married,Master,0
+L00475,63,7468,6382,12,806,Self-employed,0.44,Married,High School,1
+L00476,57,2920,39171,60,421,Unemployed,0.33,Married,Bachelor,1
+L00477,32,9564,46779,48,778,Unemployed,0.47,Divorced,PhD,0
+L00478,23,12961,8292,36,395,Self-employed,0.28,Married,PhD,0
+L00479,21,14303,46779,36,713,Self-employed,0.42,Single,Master,1
+L00480,53,10684,38187,60,534,Employed,0.19,Single,Master,0
+L00481,60,11323,17411,24,361,Employed,0.47,Married,Master,1
+L00482,30,13713,42285,36,555,Unemployed,0.37,Single,PhD,0
+L00483,63,10502,20422,60,647,Self-employed,0.2,Divorced,Master,0
+L00484,64,10930,47468,48,423,Employed,0.25,Married,High School,1
+L00485,49,5241,37371,60,781,Unemployed,0.47,Single,PhD,0
+L00486,33,2545,10693,36,616,Self-employed,0.34,Single,Bachelor,0
+L00487,32,12653,38535,48,803,Unemployed,0.21,Married,PhD,0
+L00488,51,6346,19818,60,347,Employed,0.58,Single,High School,1
+L00489,22,11996,36238,12,708,Employed,0.46,Married,High School,0
+L00490,55,13404,35874,48,435,Self-employed,0.58,Single,Master,0
+L00491,43,5810,31715,12,500,Unemployed,0.31,Divorced,PhD,0
+L00492,37,9206,32605,24,549,Self-employed,0.34,Single,PhD,1
+L00493,46,11005,39317,48,613,Employed,0.55,Single,PhD,1
+L00494,28,14316,36174,12,667,Employed,0.36,Married,Bachelor,0
+L00495,49,4032,14956,36,728,Unemployed,0.45,Single,Master,1
+L00496,46,14764,43908,36,779,Unemployed,0.23,Married,High School,0
+L00497,30,14605,15837,24,613,Unemployed,0.32,Divorced,High School,1
+L00498,46,10436,8716,48,799,Self-employed,0.16,Married,Master,0
+L00499,54,14984,9481,48,654,Unemployed,0.2,Married,High School,0
+L00500,61,2271,29282,48,784,Unemployed,0.1,Single,High School,0
+L00501,27,5511,11548,24,510,Employed,0.12,Divorced,Master,0
+L00502,24,3771,42605,48,343,Employed,0.59,Married,High School,1
+L00503,31,11454,12758,36,840,Unemployed,0.22,Single,PhD,1
+L00504,49,12616,48668,12,391,Unemployed,0.43,Single,Bachelor,1
+L00505,56,6361,28177,36,564,Employed,0.52,Married,Master,1
+L00506,45,9069,29022,36,519,Unemployed,0.38,Single,Bachelor,0
+L00507,41,2920,45761,12,741,Self-employed,0.18,Married,High School,0
+L00508,56,10190,10542,36,700,Self-employed,0.46,Married,High School,1
+L00509,30,5430,30476,24,699,Self-employed,0.4,Married,PhD,0
+L00510,57,6435,35784,12,789,Unemployed,0.47,Divorced,Master,0
+L00511,29,14676,27740,36,784,Employed,0.48,Married,High School,0
+L00512,44,12816,29817,60,769,Unemployed,0.59,Single,Master,0
+L00513,55,5760,21052,36,744,Unemployed,0.39,Divorced,Master,0
+L00514,55,4050,40153,24,568,Employed,0.27,Single,Master,1
+L00515,56,13692,5671,48,566,Employed,0.42,Divorced,Master,1
+L00516,38,3165,5163,36,353,Employed,0.13,Divorced,Master,1
+L00517,59,10567,46424,48,827,Self-employed,0.55,Divorced,Bachelor,1
+L00518,52,4033,49002,60,819,Unemployed,0.16,Divorced,PhD,1
+L00519,44,8467,9795,36,358,Employed,0.26,Single,Master,1
+L00520,43,2145,15634,12,339,Unemployed,0.51,Married,Bachelor,0
+L00521,52,6388,9798,48,536,Self-employed,0.4,Single,High School,0
+L00522,57,9832,27420,60,685,Self-employed,0.3,Married,Master,0
+L00523,32,10623,34300,12,599,Employed,0.34,Single,High School,1
+L00524,33,10896,29345,12,694,Employed,0.53,Divorced,Master,0
+L00525,43,10173,15749,12,506,Unemployed,0.27,Divorced,Bachelor,0
+L00526,45,4632,43595,12,635,Employed,0.53,Married,Bachelor,0
+L00527,55,6494,30121,36,813,Unemployed,0.14,Married,Bachelor,1
+L00528,61,10056,42487,36,477,Employed,0.49,Single,PhD,1
+L00529,50,9511,33411,36,695,Unemployed,0.52,Married,High School,0
+L00530,37,11155,38361,60,670,Unemployed,0.19,Single,PhD,0
+L00531,40,12426,26223,60,617,Unemployed,0.32,Married,Master,0
+L00532,45,12233,12394,60,668,Unemployed,0.18,Married,High School,0
+L00533,42,3828,19056,24,683,Self-employed,0.45,Married,Bachelor,0
+L00534,33,12300,33380,60,361,Unemployed,0.37,Divorced,High School,0
+L00535,39,14260,31035,36,804,Employed,0.42,Divorced,Bachelor,1
+L00536,56,11130,35620,36,538,Self-employed,0.2,Single,PhD,1
+L00537,32,6805,24877,24,494,Self-employed,0.21,Married,PhD,1
+L00538,61,2806,48404,24,521,Unemployed,0.12,Single,Bachelor,1
+L00539,39,11655,35911,60,360,Self-employed,0.26,Married,Bachelor,0
+L00540,32,9486,37784,48,428,Unemployed,0.38,Divorced,Master,0
+L00541,29,13607,8191,24,455,Employed,0.53,Divorced,PhD,1
+L00542,27,10202,38160,12,677,Unemployed,0.43,Married,PhD,1
+L00543,48,3868,30000,36,736,Self-employed,0.32,Married,Master,0
+L00544,34,9878,44040,12,506,Employed,0.58,Divorced,PhD,1
+L00545,51,7690,8631,36,687,Unemployed,0.46,Divorced,Bachelor,0
+L00546,39,9827,11172,36,779,Employed,0.57,Single,High School,1
+L00547,36,7429,47080,24,639,Employed,0.36,Divorced,High School,0
+L00548,25,11076,28561,24,639,Self-employed,0.23,Married,PhD,0
+L00549,55,5564,29817,12,503,Employed,0.13,Single,Master,0
+L00550,32,3389,25281,36,460,Self-employed,0.46,Married,Bachelor,0
+L00551,45,13593,33671,12,839,Employed,0.16,Single,High School,1
+L00552,41,9274,30364,48,691,Unemployed,0.25,Married,Bachelor,0
+L00553,56,14513,46674,12,833,Employed,0.37,Divorced,PhD,1
+L00554,43,2824,32425,60,369,Unemployed,0.38,Married,PhD,1
+L00555,36,4265,33602,12,704,Unemployed,0.4,Single,High School,1
+L00556,59,2936,28253,60,816,Employed,0.18,Married,PhD,1
+L00557,62,12992,28472,60,419,Unemployed,0.29,Single,Master,1
+L00558,59,12745,13080,60,516,Employed,0.41,Married,PhD,1
+L00559,34,8402,12099,48,355,Employed,0.58,Divorced,PhD,0
+L00560,51,5845,30431,12,665,Unemployed,0.46,Divorced,PhD,0
+L00561,25,3796,36186,12,803,Unemployed,0.56,Married,Bachelor,1
+L00562,55,10245,35111,48,754,Self-employed,0.48,Married,Bachelor,1
+L00563,43,9214,44851,36,403,Unemployed,0.4,Married,High School,0
+L00564,49,2726,27614,24,376,Self-employed,0.2,Single,High School,0
+L00565,63,4736,31724,12,529,Unemployed,0.43,Married,High School,1
+L00566,31,13362,46991,24,557,Employed,0.41,Married,PhD,1
+L00567,38,3913,9940,48,563,Unemployed,0.4,Single,Bachelor,0
+L00568,32,11788,33758,36,630,Employed,0.34,Divorced,Master,1
+L00569,29,12106,41224,36,481,Employed,0.36,Married,PhD,0
+L00570,30,9657,12788,36,849,Employed,0.27,Married,PhD,0
+L00571,64,4466,33082,48,326,Self-employed,0.36,Divorced,PhD,0
+L00572,37,12929,29034,60,575,Unemployed,0.2,Divorced,Master,1
+L00573,58,11041,40479,60,598,Employed,0.5,Single,High School,0
+L00574,27,12301,16280,24,390,Employed,0.19,Married,Master,0
+L00575,33,9312,23052,60,779,Self-employed,0.14,Married,High School,0
+L00576,60,10194,21531,60,757,Unemployed,0.32,Single,Master,0
+L00577,62,14447,27804,36,750,Unemployed,0.43,Divorced,Bachelor,1
+L00578,29,9906,33903,36,664,Self-employed,0.32,Single,PhD,1
+L00579,47,14261,49857,24,650,Self-employed,0.24,Divorced,PhD,0
+L00580,22,6876,15142,12,699,Unemployed,0.38,Single,PhD,0
+L00581,25,9287,14866,24,552,Self-employed,0.27,Divorced,High School,0
+L00582,49,2892,9531,24,758,Unemployed,0.57,Single,Master,1
+L00583,57,12222,43098,48,798,Unemployed,0.56,Divorced,Bachelor,0
+L00584,58,13352,43278,48,807,Employed,0.35,Divorced,Master,0
+L00585,39,12568,33138,24,603,Employed,0.26,Divorced,PhD,0
+L00586,28,6675,32065,24,800,Unemployed,0.47,Divorced,Bachelor,1
+L00587,21,3933,34956,24,465,Unemployed,0.12,Divorced,Bachelor,0
+L00588,42,3380,46732,60,714,Unemployed,0.34,Married,PhD,0
+L00589,37,13873,44261,48,761,Unemployed,0.27,Divorced,Master,1
+L00590,27,3290,15759,24,413,Unemployed,0.56,Married,PhD,1
+L00591,45,3640,10439,36,732,Unemployed,0.11,Divorced,Master,1
+L00592,24,9490,47533,36,655,Self-employed,0.38,Married,Bachelor,0
+L00593,56,12874,33270,60,506,Unemployed,0.47,Married,Bachelor,0
+L00594,26,11179,18279,60,534,Self-employed,0.34,Single,PhD,1
+L00595,51,3218,44279,12,741,Self-employed,0.14,Divorced,Bachelor,0
+L00596,39,7016,49251,12,654,Unemployed,0.59,Single,High School,1
+L00597,64,8881,28888,12,814,Unemployed,0.36,Single,Bachelor,0
+L00598,59,11547,22630,60,507,Self-employed,0.41,Divorced,High School,0
+L00599,47,14457,40144,60,424,Self-employed,0.22,Single,Bachelor,1
+L00600,30,14808,36182,60,437,Unemployed,0.34,Divorced,PhD,1
+L00601,46,14327,30538,36,638,Unemployed,0.31,Single,PhD,0
+L00602,39,11752,16824,60,836,Self-employed,0.14,Divorced,High School,1
+L00603,59,11610,37125,36,367,Self-employed,0.15,Divorced,PhD,0
+L00604,23,2954,11979,12,840,Self-employed,0.52,Divorced,Bachelor,1
+L00605,33,11175,31189,12,682,Employed,0.22,Married,Bachelor,0
+L00606,48,9291,47600,12,318,Self-employed,0.2,Single,PhD,0
+L00607,40,2974,17504,24,749,Employed,0.35,Married,Bachelor,1
+L00608,48,6133,25669,24,373,Unemployed,0.48,Single,Master,1
+L00609,28,7370,11910,48,575,Unemployed,0.13,Single,Master,0
+L00610,61,5972,39964,48,347,Self-employed,0.39,Single,Bachelor,0
+L00611,59,7295,25131,48,510,Unemployed,0.16,Married,PhD,1
+L00612,21,11105,30227,24,839,Unemployed,0.12,Single,High School,1
+L00613,23,14741,10978,24,490,Unemployed,0.13,Married,PhD,0
+L00614,33,10228,26991,48,614,Unemployed,0.52,Divorced,High School,0
+L00615,48,13579,22153,48,412,Employed,0.16,Single,PhD,1
+L00616,45,11903,38548,60,469,Employed,0.12,Single,Bachelor,0
+L00617,53,5020,47676,48,767,Self-employed,0.32,Divorced,Master,1
+L00618,58,10987,44071,60,313,Self-employed,0.52,Divorced,PhD,1
+L00619,26,6036,8983,36,587,Self-employed,0.23,Single,High School,0
+L00620,64,7068,14503,24,488,Unemployed,0.31,Divorced,Master,1
+L00621,52,14880,34921,48,454,Unemployed,0.12,Married,High School,1
+L00622,41,7233,21905,24,770,Employed,0.32,Married,Bachelor,0
+L00623,36,13303,28953,24,374,Employed,0.39,Single,Master,0
+L00624,41,11516,31806,24,576,Self-employed,0.39,Married,High School,0
+L00625,31,2317,27168,36,642,Employed,0.27,Married,PhD,1
+L00626,57,4396,9583,12,724,Employed,0.26,Single,Bachelor,0
+L00627,56,4162,43714,48,810,Employed,0.15,Divorced,Bachelor,1
+L00628,55,4745,44896,12,481,Employed,0.28,Single,Bachelor,0
+L00629,39,3591,16889,12,757,Employed,0.15,Married,PhD,0
+L00630,40,13303,32413,12,363,Self-employed,0.48,Single,PhD,1
+L00631,38,8183,17275,24,559,Self-employed,0.58,Single,Master,1
+L00632,61,5930,7461,60,492,Employed,0.59,Married,PhD,0
+L00633,34,12188,19291,24,705,Self-employed,0.53,Married,Master,1
+L00634,35,3312,16435,24,392,Unemployed,0.4,Single,Bachelor,1
+L00635,51,11477,32935,12,729,Employed,0.45,Married,Master,1
+L00636,21,6311,38453,24,733,Unemployed,0.24,Married,High School,1
+L00637,23,9314,23544,12,703,Self-employed,0.42,Married,Bachelor,1
+L00638,36,4383,17258,60,733,Self-employed,0.33,Married,Bachelor,1
+L00639,43,5239,35841,48,411,Unemployed,0.34,Married,Master,0
+L00640,31,4139,15736,12,674,Self-employed,0.48,Married,Bachelor,1
+L00641,32,3704,42643,60,358,Employed,0.24,Divorced,PhD,0
+L00642,30,8924,48950,48,342,Unemployed,0.26,Single,High School,0
+L00643,52,2362,39964,36,506,Employed,0.56,Married,Master,1
+L00644,36,4604,33044,12,595,Unemployed,0.13,Single,Master,0
+L00645,28,11908,44933,12,417,Self-employed,0.34,Divorced,Bachelor,0
+L00646,58,14643,20997,36,831,Unemployed,0.56,Married,PhD,0
+L00647,32,6286,19215,36,521,Unemployed,0.41,Single,Bachelor,1
+L00648,44,5738,38069,12,465,Employed,0.37,Married,Bachelor,1
+L00649,48,4469,28911,36,455,Self-employed,0.22,Married,Master,1
+L00650,28,6795,22030,24,483,Employed,0.27,Married,Bachelor,0
+L00651,48,8150,34334,48,389,Self-employed,0.53,Married,High School,1
+L00652,56,2556,19571,48,393,Employed,0.38,Married,Bachelor,0
+L00653,46,11017,47719,48,312,Unemployed,0.36,Married,Bachelor,0
+L00654,28,4808,33927,24,737,Employed,0.15,Married,Master,0
+L00655,48,7150,25714,36,837,Self-employed,0.11,Divorced,Bachelor,0
+L00656,48,14713,48541,60,449,Self-employed,0.58,Divorced,PhD,1
+L00657,57,9561,28387,36,307,Unemployed,0.29,Married,Master,1
+L00658,61,4719,33444,12,328,Self-employed,0.4,Married,Bachelor,1
+L00659,56,8506,24921,48,595,Employed,0.14,Divorced,High School,0
+L00660,47,13700,18057,36,639,Unemployed,0.44,Divorced,High School,0
+L00661,37,5741,29858,60,738,Self-employed,0.57,Divorced,Master,1
+L00662,29,11766,49638,12,443,Self-employed,0.39,Married,Master,0
+L00663,53,5998,31062,24,818,Employed,0.16,Single,Bachelor,1
+L00664,40,12321,41850,24,344,Employed,0.39,Single,PhD,0
+L00665,33,4403,25567,60,538,Unemployed,0.48,Single,Bachelor,1
+L00666,48,13521,34739,12,454,Self-employed,0.3,Single,High School,0
+L00667,49,10780,48285,48,480,Employed,0.54,Married,PhD,1
+L00668,33,12204,8754,36,514,Unemployed,0.42,Single,PhD,1
+L00669,55,11739,32044,12,387,Self-employed,0.55,Divorced,PhD,0
+L00670,26,2294,6724,24,555,Self-employed,0.41,Divorced,Bachelor,0
+L00671,38,12177,6376,60,810,Unemployed,0.17,Single,High School,0
+L00672,25,7343,13706,60,372,Unemployed,0.25,Divorced,Master,0
+L00673,45,13309,13894,36,478,Employed,0.2,Married,Bachelor,1
+L00674,22,11882,23037,60,511,Self-employed,0.55,Single,Master,1
+L00675,30,3136,23450,60,533,Self-employed,0.48,Single,PhD,1
+L00676,50,4064,21406,12,764,Self-employed,0.44,Married,PhD,1
+L00677,25,14647,34725,48,522,Unemployed,0.25,Divorced,Bachelor,1
+L00678,53,9009,10926,36,563,Employed,0.19,Married,High School,0
+L00679,21,14987,44019,12,506,Self-employed,0.48,Married,PhD,0
+L00680,38,6543,14496,48,665,Unemployed,0.34,Divorced,Master,1
+L00681,52,14962,41068,12,575,Self-employed,0.21,Married,Master,0
+L00682,31,3007,34806,12,679,Employed,0.41,Divorced,Bachelor,0
+L00683,41,7445,27663,60,608,Self-employed,0.12,Divorced,Master,0
+L00684,46,12706,46321,48,567,Employed,0.26,Married,High School,1
+L00685,45,13718,41495,36,363,Employed,0.33,Divorced,PhD,1
+L00686,42,14873,27656,36,649,Self-employed,0.17,Married,Master,0
+L00687,47,7352,30860,48,793,Self-employed,0.59,Divorced,Master,1
+L00688,33,11439,21832,60,822,Employed,0.2,Single,PhD,0
+L00689,53,14094,43787,24,397,Unemployed,0.17,Divorced,Bachelor,1
+L00690,54,3435,26727,12,370,Employed,0.2,Divorced,Master,0
+L00691,61,2571,47815,60,663,Self-employed,0.48,Married,Bachelor,0
+L00692,55,4382,34545,48,575,Self-employed,0.31,Divorced,Bachelor,0
+L00693,21,11437,49522,12,349,Unemployed,0.38,Single,Master,0
+L00694,41,12276,7520,36,657,Employed,0.11,Single,High School,0
+L00695,26,7084,8081,24,784,Employed,0.12,Divorced,Bachelor,0
+L00696,48,2277,39196,36,383,Employed,0.32,Divorced,Master,0
+L00697,37,9059,41735,48,595,Self-employed,0.51,Single,Bachelor,0
+L00698,25,3887,44213,12,535,Employed,0.54,Married,PhD,1
+L00699,51,14771,19566,48,355,Unemployed,0.14,Single,High School,0
+L00700,25,3265,19042,12,659,Self-employed,0.37,Single,High School,0
+L00701,58,9491,30498,60,409,Self-employed,0.56,Divorced,PhD,0
+L00702,23,3040,16329,24,491,Employed,0.29,Divorced,PhD,0
+L00703,43,11109,36656,60,392,Unemployed,0.51,Single,Bachelor,1
+L00704,57,10073,7159,60,359,Self-employed,0.17,Married,PhD,0
+L00705,57,11077,42900,48,338,Self-employed,0.57,Single,High School,0
+L00706,30,4752,24363,24,839,Employed,0.48,Single,PhD,0
+L00707,30,10213,48241,12,348,Employed,0.57,Married,Master,1
+L00708,39,6569,24033,12,719,Unemployed,0.44,Single,Master,1
+L00709,37,13383,15805,36,312,Employed,0.28,Single,Bachelor,0
+L00710,41,8353,40851,12,335,Unemployed,0.57,Divorced,High School,1
+L00711,34,4353,31832,48,400,Self-employed,0.24,Married,Master,0
+L00712,29,9437,18944,60,385,Unemployed,0.27,Divorced,PhD,1
+L00713,21,6799,24873,60,815,Unemployed,0.45,Divorced,Master,0
+L00714,33,2686,45372,60,522,Unemployed,0.48,Married,Master,0
+L00715,24,10476,28928,24,637,Self-employed,0.56,Married,Bachelor,1
+L00716,21,6811,20379,12,465,Employed,0.2,Single,PhD,1
+L00717,60,13939,41751,48,682,Self-employed,0.5,Divorced,PhD,1
+L00718,52,10954,39546,24,675,Employed,0.47,Married,PhD,1
+L00719,54,7346,29286,36,770,Unemployed,0.13,Divorced,Bachelor,0
+L00720,48,7043,10110,48,330,Unemployed,0.29,Divorced,PhD,0
+L00721,51,4428,17087,48,674,Unemployed,0.24,Married,PhD,0
+L00722,28,12699,28762,48,310,Unemployed,0.25,Single,Master,1
+L00723,59,7126,22081,60,601,Unemployed,0.59,Divorced,Master,0
+L00724,46,10220,39947,48,395,Employed,0.42,Married,PhD,1
+L00725,54,11098,14596,12,489,Employed,0.46,Single,High School,1
+L00726,23,13296,43019,48,752,Unemployed,0.59,Divorced,High School,1
+L00727,32,9813,47003,60,491,Self-employed,0.29,Married,PhD,1
+L00728,21,14191,23313,48,785,Self-employed,0.5,Divorced,High School,1
+L00729,64,13186,6013,36,565,Unemployed,0.32,Married,Bachelor,1
+L00730,25,12698,28705,36,723,Employed,0.53,Married,Master,0
+L00731,50,14857,6828,60,427,Self-employed,0.19,Divorced,Bachelor,1
+L00732,50,13801,12909,12,537,Self-employed,0.57,Divorced,Master,1
+L00733,37,13745,43356,12,654,Self-employed,0.21,Married,High School,1
+L00734,43,11645,18109,24,411,Unemployed,0.26,Single,High School,1
+L00735,35,5356,7023,60,745,Self-employed,0.48,Divorced,PhD,1
+L00736,57,10707,19537,48,642,Self-employed,0.3,Married,High School,0
+L00737,41,9266,31661,60,444,Self-employed,0.4,Married,High School,0
+L00738,34,8540,43659,24,364,Self-employed,0.32,Single,PhD,0
+L00739,22,2038,38848,60,546,Employed,0.47,Single,PhD,1
+L00740,31,5342,42804,60,789,Unemployed,0.21,Single,Master,0
+L00741,59,11078,20379,24,738,Unemployed,0.13,Divorced,High School,0
+L00742,58,4844,32766,12,405,Employed,0.25,Married,Master,0
+L00743,54,12396,48590,48,480,Employed,0.34,Married,Master,0
+L00744,58,3098,7563,24,483,Unemployed,0.18,Married,Bachelor,1
+L00745,54,9027,41060,36,525,Self-employed,0.28,Single,High School,1
+L00746,38,3823,34197,12,388,Self-employed,0.3,Married,High School,0
+L00747,50,13393,8586,36,829,Unemployed,0.13,Divorced,Bachelor,0
+L00748,35,5155,21087,12,670,Self-employed,0.39,Single,Master,1
+L00749,47,5093,28225,48,698,Employed,0.54,Single,High School,1
+L00750,54,13722,34750,48,405,Self-employed,0.18,Single,Master,0
+L00751,58,7658,11643,60,570,Self-employed,0.4,Single,Bachelor,0
+L00752,53,5778,32523,36,802,Self-employed,0.43,Divorced,PhD,0
+L00753,44,4896,41727,12,824,Unemployed,0.31,Married,Master,0
+L00754,35,13645,16005,48,331,Employed,0.45,Divorced,High School,1
+L00755,50,13703,48543,24,692,Self-employed,0.31,Married,PhD,0
+L00756,62,2988,5161,48,339,Unemployed,0.35,Divorced,Master,1
+L00757,37,6116,21029,24,517,Self-employed,0.1,Single,Master,0
+L00758,25,8446,19226,12,381,Employed,0.45,Single,PhD,0
+L00759,49,14218,33731,48,500,Self-employed,0.43,Divorced,PhD,1
+L00760,24,6179,48922,48,746,Employed,0.12,Divorced,PhD,0
+L00761,30,3682,49848,12,727,Self-employed,0.28,Married,High School,1
+L00762,37,7626,8390,48,337,Employed,0.59,Divorced,High School,1
+L00763,30,9424,10997,24,510,Self-employed,0.31,Divorced,Master,0
+L00764,37,14857,17693,48,743,Employed,0.35,Married,Master,1
+L00765,40,14155,47092,36,626,Self-employed,0.55,Married,Bachelor,1
+L00766,44,2933,5541,60,526,Self-employed,0.46,Married,High School,0
+L00767,25,5598,26817,24,347,Unemployed,0.39,Divorced,Master,0
+L00768,54,13425,42861,36,317,Unemployed,0.5,Married,PhD,1
+L00769,26,3980,18428,12,738,Employed,0.53,Single,PhD,1
+L00770,22,12047,48934,24,486,Self-employed,0.33,Single,High School,1
+L00771,33,5056,15258,60,644,Employed,0.34,Single,PhD,1
+L00772,63,10984,21044,60,523,Unemployed,0.29,Divorced,Bachelor,1
+L00773,63,2791,34411,12,787,Employed,0.58,Single,Master,1
+L00774,31,12001,10469,12,528,Employed,0.45,Divorced,Master,1
+L00775,43,7390,33854,24,689,Unemployed,0.14,Divorced,Master,1
+L00776,36,8635,11256,48,487,Self-employed,0.53,Single,High School,0
+L00777,51,4255,15720,12,569,Employed,0.34,Married,PhD,0
+L00778,31,5610,38937,48,609,Unemployed,0.13,Divorced,Bachelor,0
+L00779,36,3607,38598,36,431,Self-employed,0.37,Single,High School,1
+L00780,28,7179,6651,60,371,Unemployed,0.31,Divorced,Master,1
+L00781,24,8573,24194,48,486,Employed,0.54,Married,Bachelor,0
+L00782,60,2984,30051,60,785,Self-employed,0.2,Married,Master,0
+L00783,24,7776,32386,48,490,Self-employed,0.51,Single,Master,0
+L00784,45,5676,14518,36,721,Unemployed,0.38,Divorced,High School,0
+L00785,23,5380,21184,12,419,Unemployed,0.13,Divorced,Master,0
+L00786,52,10711,38787,36,519,Unemployed,0.59,Divorced,Bachelor,1
+L00787,23,10782,26621,12,352,Self-employed,0.36,Divorced,Master,1
+L00788,47,3050,15028,12,750,Self-employed,0.25,Single,PhD,0
+L00789,49,5633,17448,60,711,Employed,0.33,Married,Master,1
+L00790,52,8342,39051,36,536,Self-employed,0.53,Single,High School,1
+L00791,39,14636,35447,48,705,Employed,0.25,Divorced,Bachelor,0
+L00792,41,2959,23394,36,721,Unemployed,0.2,Divorced,High School,0
+L00793,25,8059,39501,60,546,Unemployed,0.16,Married,PhD,1
+L00794,38,10884,35254,12,371,Self-employed,0.25,Divorced,Master,0
+L00795,48,7655,23509,60,484,Unemployed,0.49,Single,High School,0
+L00796,62,14091,19472,24,305,Unemployed,0.34,Single,High School,0
+L00797,42,6473,8471,24,505,Self-employed,0.21,Married,High School,0
+L00798,41,4946,46796,48,843,Employed,0.18,Single,High School,0
+L00799,26,9725,35268,60,686,Self-employed,0.27,Single,PhD,0
+L00800,21,2526,13329,48,375,Employed,0.57,Single,PhD,1
+L00801,25,5224,39865,48,476,Self-employed,0.27,Single,Master,0
+L00802,61,12445,33272,24,648,Self-employed,0.59,Divorced,Master,0
+L00803,32,13536,47845,48,554,Unemployed,0.34,Single,Bachelor,0
+L00804,46,14157,11397,24,607,Self-employed,0.19,Married,PhD,0
+L00805,54,3875,37373,12,644,Self-employed,0.55,Married,High School,1
+L00806,34,3763,40525,60,426,Employed,0.33,Single,High School,0
+L00807,46,10712,29570,48,586,Unemployed,0.45,Married,Bachelor,1
+L00808,47,7797,23284,24,786,Employed,0.59,Single,High School,1
+L00809,29,11208,23994,36,682,Employed,0.13,Married,Bachelor,1
+L00810,46,9099,28284,48,705,Unemployed,0.15,Married,Master,0
+L00811,42,7109,22833,12,687,Unemployed,0.46,Single,PhD,1
+L00812,50,8644,30122,12,824,Unemployed,0.24,Single,Bachelor,0
+L00813,63,2116,10017,36,575,Self-employed,0.19,Divorced,High School,0
+L00814,37,4433,21370,24,799,Unemployed,0.12,Single,Bachelor,1
+L00815,46,7463,34252,48,636,Unemployed,0.11,Single,Master,0
+L00816,56,2583,12999,24,780,Unemployed,0.49,Divorced,High School,1
+L00817,21,10586,27436,12,572,Employed,0.17,Single,Master,1
+L00818,28,5788,47963,24,357,Employed,0.33,Single,Master,1
+L00819,55,12960,7096,12,627,Self-employed,0.4,Divorced,Bachelor,1
+L00820,35,6167,30279,24,408,Employed,0.31,Single,Master,1
+L00821,42,14052,48363,36,578,Self-employed,0.11,Single,High School,0
+L00822,34,10465,31201,60,627,Employed,0.49,Divorced,Master,0
+L00823,46,12205,24715,36,614,Unemployed,0.11,Divorced,Master,0
+L00824,48,14625,34309,36,773,Employed,0.48,Married,Bachelor,1
+L00825,43,3389,20078,60,410,Self-employed,0.55,Single,Master,1
+L00826,34,13758,10105,60,528,Employed,0.32,Married,PhD,0
+L00827,44,14894,34312,48,796,Unemployed,0.37,Married,Bachelor,0
+L00828,22,10357,7839,48,455,Self-employed,0.34,Divorced,Bachelor,1
+L00829,46,11759,8384,36,772,Unemployed,0.29,Single,High School,1
+L00830,34,8154,48619,36,571,Unemployed,0.54,Single,High School,0
+L00831,27,7420,47821,12,301,Self-employed,0.55,Divorced,High School,1
+L00832,23,10920,18493,12,810,Unemployed,0.27,Married,High School,0
+L00833,43,4043,22069,48,585,Unemployed,0.41,Divorced,PhD,1
+L00834,63,6197,12531,48,312,Employed,0.56,Single,Bachelor,1
+L00835,38,5496,42051,12,797,Unemployed,0.58,Divorced,Master,1
+L00836,58,2778,12736,12,537,Unemployed,0.35,Single,High School,1
+L00837,55,2213,12710,24,393,Unemployed,0.33,Married,High School,0
+L00838,35,5762,6619,24,637,Unemployed,0.24,Single,High School,0
+L00839,45,11768,18975,12,470,Self-employed,0.58,Married,Master,1
+L00840,57,12640,28252,24,766,Employed,0.17,Married,High School,1
+L00841,48,8731,20261,60,442,Unemployed,0.39,Single,Master,0
+L00842,30,13128,6431,48,500,Unemployed,0.24,Single,Bachelor,1
+L00843,59,5117,14067,48,479,Self-employed,0.24,Married,Bachelor,0
+L00844,37,7791,42481,12,663,Unemployed,0.3,Divorced,Bachelor,1
+L00845,59,10783,32037,36,778,Self-employed,0.6,Single,PhD,1
+L00846,42,4720,14557,12,770,Employed,0.13,Married,Master,1
+L00847,46,10905,14435,24,683,Employed,0.39,Married,High School,1
+L00848,64,11127,42766,36,716,Unemployed,0.14,Divorced,High School,0
+L00849,45,8047,5162,24,607,Unemployed,0.18,Single,High School,0
+L00850,37,14529,39742,60,666,Unemployed,0.32,Married,High School,1
+L00851,33,10032,24675,24,300,Self-employed,0.36,Divorced,PhD,0
+L00852,40,2001,13461,60,343,Unemployed,0.23,Married,High School,1
+L00853,45,8368,22015,60,397,Unemployed,0.26,Single,PhD,0
+L00854,24,13040,37591,24,564,Employed,0.14,Divorced,Master,0
+L00855,30,14236,33047,24,439,Unemployed,0.25,Married,Bachelor,0
+L00856,23,3949,39782,60,780,Employed,0.58,Divorced,High School,1
+L00857,61,8732,14833,36,536,Unemployed,0.57,Single,Bachelor,1
+L00858,38,9833,12896,60,371,Employed,0.27,Divorced,Master,0
+L00859,56,2917,37972,48,489,Unemployed,0.39,Single,Master,0
+L00860,42,5174,46800,60,567,Employed,0.55,Married,High School,1
+L00861,54,12433,35508,36,620,Self-employed,0.1,Single,Master,1
+L00862,28,9014,10347,48,406,Employed,0.51,Married,Bachelor,0
+L00863,60,2089,35314,12,531,Employed,0.57,Married,High School,0
+L00864,64,3709,7643,12,341,Employed,0.15,Single,PhD,0
+L00865,39,12361,45785,36,438,Unemployed,0.18,Married,High School,0
+L00866,62,14430,23681,60,572,Unemployed,0.58,Divorced,Bachelor,1
+L00867,61,5041,43328,24,780,Unemployed,0.37,Married,High School,0
+L00868,57,2105,20892,36,715,Self-employed,0.11,Single,High School,1
+L00869,26,11078,22073,48,805,Self-employed,0.23,Divorced,Bachelor,0
+L00870,46,10619,41768,48,723,Employed,0.32,Divorced,High School,0
+L00871,54,3895,35682,12,706,Self-employed,0.45,Married,High School,0
+L00872,26,8090,37262,48,689,Employed,0.47,Married,Bachelor,1
+L00873,57,10508,36358,36,641,Employed,0.6,Single,Master,0
+L00874,53,8082,19289,48,792,Employed,0.24,Divorced,Bachelor,0
+L00875,42,2634,12927,36,491,Self-employed,0.37,Single,High School,1
+L00876,41,3925,6171,24,798,Unemployed,0.37,Married,PhD,0
+L00877,26,4056,16918,12,532,Self-employed,0.3,Divorced,PhD,0
+L00878,26,8917,46903,48,526,Employed,0.18,Single,Bachelor,0
+L00879,24,5144,44110,36,670,Employed,0.59,Single,PhD,0
+L00880,50,12462,16929,60,438,Self-employed,0.53,Single,High School,1
+L00881,31,11631,7539,12,448,Employed,0.35,Single,High School,0
+L00882,50,2552,41727,24,414,Employed,0.4,Single,Bachelor,0
+L00883,51,10907,27669,36,749,Self-employed,0.21,Divorced,High School,1
+L00884,44,7383,10432,24,362,Self-employed,0.37,Single,Master,1
+L00885,29,5911,25644,24,403,Self-employed,0.45,Divorced,High School,0
+L00886,23,11905,23745,48,572,Employed,0.36,Single,Bachelor,0
+L00887,51,5389,33228,48,305,Employed,0.6,Married,Master,1
+L00888,60,11299,39521,36,446,Unemployed,0.41,Married,Master,0
+L00889,57,14398,36703,60,483,Unemployed,0.29,Single,PhD,1
+L00890,56,10442,31928,36,327,Self-employed,0.49,Married,High School,1
+L00891,44,4430,23322,60,849,Unemployed,0.19,Divorced,Bachelor,0
+L00892,51,12246,27360,24,418,Employed,0.29,Single,PhD,1
+L00893,26,2458,34055,12,592,Unemployed,0.27,Divorced,PhD,0
+L00894,22,2207,47891,36,670,Employed,0.32,Single,High School,0
+L00895,40,2899,21376,36,543,Self-employed,0.49,Married,High School,1
+L00896,48,13653,11588,60,517,Self-employed,0.34,Divorced,Bachelor,1
+L00897,31,13577,30000,24,476,Employed,0.5,Married,PhD,0
+L00898,24,2021,11304,24,598,Unemployed,0.39,Married,Bachelor,0
+L00899,35,10601,12345,60,357,Self-employed,0.27,Single,PhD,1
+L00900,26,2894,34300,24,568,Self-employed,0.5,Divorced,PhD,0
+L00901,50,2514,29259,48,607,Unemployed,0.22,Married,PhD,0
+L00902,58,9294,30470,12,587,Unemployed,0.21,Single,High School,1
+L00903,22,6904,28017,36,404,Employed,0.35,Single,PhD,0
+L00904,35,9867,20352,12,527,Unemployed,0.23,Single,PhD,0
+L00905,31,6109,38365,36,546,Unemployed,0.1,Married,PhD,0
+L00906,28,9179,24446,48,793,Unemployed,0.42,Single,Master,1
+L00907,46,12326,7336,24,382,Employed,0.36,Divorced,High School,0
+L00908,64,13787,14879,60,485,Employed,0.32,Divorced,Master,1
+L00909,25,13148,37316,48,551,Self-employed,0.58,Married,High School,0
+L00910,26,3560,38340,12,654,Employed,0.39,Divorced,Bachelor,0
+L00911,46,3266,12521,60,509,Self-employed,0.53,Single,Master,1
+L00912,24,12361,11171,24,746,Unemployed,0.17,Married,Bachelor,0
+L00913,39,5638,28481,48,759,Self-employed,0.38,Single,PhD,1
+L00914,40,10941,23474,60,771,Self-employed,0.53,Married,Bachelor,1
+L00915,53,5427,49629,48,669,Unemployed,0.39,Married,Bachelor,1
+L00916,40,6780,26008,48,791,Self-employed,0.46,Single,Bachelor,0
+L00917,32,3927,6633,24,436,Employed,0.29,Divorced,Bachelor,1
+L00918,21,13996,17485,36,666,Employed,0.15,Divorced,High School,0
+L00919,46,13894,48617,60,483,Employed,0.33,Married,Master,1
+L00920,34,4356,8648,24,586,Employed,0.3,Single,High School,1
+L00921,58,6790,18140,48,771,Self-employed,0.53,Single,High School,1
+L00922,57,12527,22921,24,674,Self-employed,0.22,Married,High School,1
+L00923,31,2306,19357,36,836,Unemployed,0.58,Divorced,Bachelor,0
+L00924,56,9979,8137,60,810,Self-employed,0.58,Single,High School,0
+L00925,33,5665,5097,36,549,Self-employed,0.22,Divorced,Master,0
+L00926,63,12181,16407,12,809,Self-employed,0.27,Divorced,High School,1
+L00927,23,9057,35575,60,372,Unemployed,0.55,Married,PhD,1
+L00928,53,2661,17722,36,581,Employed,0.58,Married,Bachelor,0
+L00929,26,6644,17924,48,659,Self-employed,0.32,Divorced,PhD,0
+L00930,30,10503,8750,60,309,Unemployed,0.26,Single,Master,0
+L00931,25,4920,32733,60,510,Unemployed,0.36,Single,Master,0
+L00932,43,11274,13535,24,451,Unemployed,0.44,Married,Master,0
+L00933,30,13163,29487,48,304,Employed,0.24,Divorced,Master,1
+L00934,64,10946,35651,12,494,Self-employed,0.47,Single,High School,0
+L00935,22,14322,9666,36,582,Unemployed,0.13,Single,Bachelor,1
+L00936,33,14732,21994,24,763,Employed,0.12,Married,Master,0
+L00937,60,8236,6727,36,412,Unemployed,0.29,Divorced,PhD,1
+L00938,22,8078,39622,12,570,Unemployed,0.28,Single,Master,0
+L00939,40,2352,15800,12,462,Unemployed,0.26,Married,Bachelor,1
+L00940,21,11094,42823,60,759,Unemployed,0.35,Single,PhD,1
+L00941,57,14080,48039,12,404,Unemployed,0.26,Single,PhD,0
+L00942,29,9005,23708,36,581,Employed,0.2,Single,PhD,1
+L00943,37,2158,17819,48,461,Self-employed,0.25,Married,High School,0
+L00944,29,12169,14369,48,650,Self-employed,0.59,Divorced,Master,1
+L00945,31,2956,14283,60,733,Self-employed,0.31,Married,High School,0
+L00946,35,4071,35573,36,439,Self-employed,0.32,Divorced,PhD,0
+L00947,44,10595,18171,36,770,Employed,0.39,Single,High School,1
+L00948,58,14803,35933,12,431,Employed,0.59,Divorced,High School,1
+L00949,55,12971,10774,36,386,Employed,0.22,Single,High School,0
+L00950,50,11579,11519,24,482,Unemployed,0.44,Single,Master,0
+L00951,51,5453,15983,12,667,Unemployed,0.46,Married,PhD,0
+L00952,25,8675,35932,24,428,Unemployed,0.4,Single,PhD,0
+L00953,64,2955,35798,60,545,Self-employed,0.14,Married,Master,1
+L00954,34,8295,23133,48,677,Unemployed,0.44,Divorced,High School,0
+L00955,31,3712,19939,60,448,Self-employed,0.13,Divorced,High School,0
+L00956,29,6703,5781,48,732,Unemployed,0.4,Single,Bachelor,0
+L00957,54,8563,32624,60,768,Self-employed,0.47,Married,Bachelor,1
+L00958,32,11465,11823,36,745,Unemployed,0.21,Single,Bachelor,0
+L00959,55,7631,23489,24,780,Unemployed,0.52,Married,Master,0
+L00960,55,14003,44961,48,593,Employed,0.12,Married,PhD,0
+L00961,21,12817,34118,12,442,Unemployed,0.52,Married,Bachelor,0
+L00962,60,12574,39881,24,549,Unemployed,0.33,Divorced,PhD,1
+L00963,42,11633,21280,12,601,Employed,0.21,Married,PhD,0
+L00964,49,13171,27263,24,324,Self-employed,0.17,Divorced,PhD,0
+L00965,28,11989,18565,24,369,Employed,0.58,Married,Master,0
+L00966,31,14582,25354,60,411,Employed,0.14,Divorced,Master,1
+L00967,61,14201,47951,48,663,Self-employed,0.2,Divorced,Master,1
+L00968,57,3394,30643,48,602,Unemployed,0.27,Divorced,Master,0
+L00969,34,14473,28648,24,770,Self-employed,0.41,Single,Bachelor,0
+L00970,50,11461,46971,36,390,Unemployed,0.37,Married,High School,1
+L00971,55,6732,23658,36,829,Unemployed,0.16,Single,High School,0
+L00972,41,5714,26253,12,491,Self-employed,0.24,Married,High School,1
+L00973,57,2529,31390,12,541,Employed,0.22,Married,Bachelor,0
+L00974,25,13815,28128,60,437,Self-employed,0.21,Single,High School,1
+L00975,39,4958,18489,24,644,Unemployed,0.31,Divorced,Bachelor,0
+L00976,34,9904,43314,12,479,Self-employed,0.45,Married,Bachelor,0
+L00977,46,13106,37658,12,802,Self-employed,0.21,Divorced,Bachelor,1
+L00978,24,5591,11852,24,502,Unemployed,0.28,Single,High School,0
+L00979,45,12339,34450,60,491,Employed,0.3,Divorced,PhD,1
+L00980,62,8895,7551,12,304,Self-employed,0.59,Married,High School,1
+L00981,45,14765,11411,60,536,Unemployed,0.58,Married,High School,0
+L00982,38,13561,38243,48,610,Unemployed,0.5,Married,Master,1
+L00983,60,11131,26800,60,848,Self-employed,0.22,Single,Bachelor,0
+L00984,28,2525,15403,36,355,Employed,0.13,Married,PhD,0
+L00985,59,8477,12239,36,742,Self-employed,0.26,Single,Master,0
+L00986,60,2001,11710,60,536,Employed,0.23,Divorced,PhD,1
+L00987,34,2374,26384,36,496,Employed,0.35,Married,PhD,0
+L00988,52,12532,26038,48,813,Employed,0.49,Married,Bachelor,1
+L00989,58,14197,45846,24,748,Employed,0.53,Married,High School,1
+L00990,53,13244,27447,36,659,Self-employed,0.52,Divorced,Bachelor,1
+L00991,43,6648,7285,36,329,Unemployed,0.28,Married,Bachelor,1
+L00992,35,4365,42991,60,407,Unemployed,0.44,Single,Master,0
+L00993,53,3525,18521,48,744,Unemployed,0.26,Divorced,Bachelor,0
+L00994,45,14668,11971,24,737,Unemployed,0.13,Divorced,High School,1
+L00995,37,3646,34139,60,756,Unemployed,0.45,Divorced,PhD,0
+L00996,53,2013,24909,60,794,Unemployed,0.1,Divorced,Bachelor,0
+L00997,22,6599,16531,48,546,Self-employed,0.3,Divorced,PhD,1
+L00998,34,4278,19721,24,842,Employed,0.26,Single,Bachelor,0
+L00999,60,5155,24206,48,738,Unemployed,0.45,Divorced,PhD,0
+L01000,60,10321,42711,24,577,Self-employed,0.48,Married,Bachelor,0
